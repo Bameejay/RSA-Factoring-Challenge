@@ -1,1 +1,1 @@
-About Primie Factorization
+Factoring Challenge
