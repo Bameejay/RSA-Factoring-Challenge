@@ -1,1 +1,1 @@
-Factoring Challenge
+understanding factory
